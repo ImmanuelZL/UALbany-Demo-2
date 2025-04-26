@@ -12,7 +12,7 @@ A single AND gate
 Explain how your project works
 Loop through all combinations of inputs for 2 bits
 ## How to test
-
+Turn on both switches
 Explain how to use your project
 
 ## External hardware
